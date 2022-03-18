@@ -1,7 +1,7 @@
 # OMAY_STEALERS
 @omay_project789_bot
 @omay_agency789_bot
-# INJECTOR Extensions
+# INJECTOR Source
 * Visual Basic Script
 * Javascript
 * HTML Application
